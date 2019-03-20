@@ -139,6 +139,11 @@ input, select, textarea {
 		border-bottom: dotted 1px #62676c;
 	}
 
+       .highlight {
+	       color: #f35858;
+	       border-bottom-color: white;
+        }
+
 		a:hover {
 			color: #f35858;
 			border-bottom-color: rgba(255, 255, 255, 0);
